@@ -46,9 +46,6 @@
         "zendframework/zend-mvc-console": "^1.1.8, to test MVC <-> console integration"
     },
     "autoload": {
-        "files": [
-            "autoload/phpunit-class-aliases.php"
-        ],
         "psr-4": {
             "Zend\\Test\\": "src/"
         }
